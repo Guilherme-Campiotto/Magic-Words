@@ -1,0 +1,42 @@
+[
+	{
+		word: pennsylvania,
+		tip: state
+	},
+	{
+		word: fervid,
+		tip: ardent
+	},
+	{
+		word: oxygen,
+		tip: air
+	},
+	{
+		word: rogue,
+		tip: dishonest 
+	},
+	{
+		word: mystify,
+		tip: puzzle
+	},
+	{
+		word: wagon,
+		tip: train
+	},
+	{
+		word: jukebox,
+		tip: music
+	},
+	{
+		word: shallow,
+		tip: superficial
+	},
+	{
+		word: thumb,
+		tip: finger
+	},
+	{
+		word: blizzard,
+		tip: cold
+	}
+]

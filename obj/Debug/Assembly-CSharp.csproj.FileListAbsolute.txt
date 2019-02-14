@@ -1,0 +1,2 @@
+C:\Projeto forca e feiticos\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Projeto forca e feiticos\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache

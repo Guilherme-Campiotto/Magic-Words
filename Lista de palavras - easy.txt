@@ -1,0 +1,42 @@
+[
+	{
+		word: fireplace,
+		tip: warm
+	},
+	{
+		word: monkey,
+		tip: animal
+	},
+	{
+		word: philadelphia,
+		tip: city
+	},
+	{
+		word: august,
+		tip: month
+	},
+	{
+		word: egypt,
+		tip: country
+	},
+	{
+		word: vodka,
+		tip: drink
+	},
+	{
+		word: zombie,
+		tip: dead
+	},
+	{
+		word: subway,
+		tip: underground
+	},
+	{
+		word: shake,
+		tip: vibrate
+	},
+	{
+		word: fruit,
+		tip: food
+	}
+]

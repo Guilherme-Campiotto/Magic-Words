@@ -1,0 +1,42 @@
+[
+	{
+		word: strength,
+		tip: power
+	},
+	{
+		word: positive,
+		tip: confident
+	},
+	{
+		word: university,
+		tip: college
+	},
+	{
+		word: mission,
+		tip: assignment 
+	},
+	{
+		word: relationship,
+		tip: connection
+	},
+	{
+		word: explanation,
+		tip: reason
+	},
+	{
+		word: grandmother,
+		tip: parent
+	},
+	{
+		word: january,
+		tip: month
+	},
+	{
+		word: advice,
+		tip: guidance
+	},
+	{
+		word: memento,
+		tip: reminder
+	}
+]
